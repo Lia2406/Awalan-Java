@@ -26,3 +26,5 @@ public class StringManipulation {
     scanner.close();
    } 
 }
+
+//sampai di soal no.5 lebih memahami walau masih ada error saat awalnya
