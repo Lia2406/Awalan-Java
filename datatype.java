@@ -24,7 +24,7 @@ public class datatype {
 
                 if (value >= Byte.MIN_VALUE && value <= Byte.MAX_VALUE) {
                     System.out.println("* byte");
-                }
+                } //pengecekan value masuk mana menggunakan range nya byte dan pengeprint an jika masuk ke dalam tipe data byte/ yang sesuai
                 if (value >= Short.MIN_VALUE && value <= Short.MAX_VALUE) {
                     System.out.println("* short");
                 }
